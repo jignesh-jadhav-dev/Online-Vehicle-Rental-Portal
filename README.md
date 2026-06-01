@@ -181,35 +181,75 @@ View Booking History
 
 ---
 
-# 📸 Screenshots
-
-## 🏠 Home Page
-
-Add Screenshot Here
-
----
+# 📸 Application Screenshots
 
 ## 🔐 Login Page
 
-Add Screenshot Here
+<div align="center">
+  <img src="screenshots/login-page.png" alt="Login Page" width="900"/>
+</div>
 
 ---
 
-## 🚘 Vehicle Listing
+## 📝 Registration Page
 
-Add Screenshot Here
-
----
-
-## 📅 Booking Page
-
-Add Screenshot Here
+<div align="center">
+  <img src="screenshots/registration-page.png" alt="Registration Page" width="900"/>
+</div>
 
 ---
+
+# 👨‍💼 Admin Module
 
 ## 📊 Admin Dashboard
 
-Add Screenshot Here
+<div align="center">
+  <img src="screenshots/admin-dashboard.png" alt="Admin Dashboard" width="900"/>
+</div>
+
+---
+
+## 📋 Admin Booking Management
+
+<div align="center">
+  <img src="screenshots/admin-booking-page.png" alt="Admin Booking Management" width="900"/>
+</div>
+
+---
+
+## 🚗 Admin Vehicle Management
+
+<div align="center">
+  <img src="screenshots/admin-vehical-page.png" alt="Admin Vehicle Management" width="900"/>
+</div>
+
+---
+
+# 👤 Customer Module
+
+## 🏠 Customer Dashboard
+
+<div align="center">
+  <img src="screenshots/customer-dashboard-page.png" alt="Customer Dashboard" width="900"/>
+</div>
+
+---
+
+## 📅 Customer Booking Page
+
+<div align="center">
+  <img src="screenshots/customer-booking-page.png" alt="Customer Booking Page" width="900"/>
+</div>
+
+---
+
+## 🚘 Customer Vehicle Page
+
+<div align="center">
+  <img src="screenshots/customer-vehicle-list-page.png" alt="Customer Vehicle Page" width="900"/>
+</div>
+
+---
 
 ---
 

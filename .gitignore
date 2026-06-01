@@ -1,0 +1,7 @@
+# Ignore Maven build output
+target/
+
+# Ignore Eclipse-specific configurations
+.settings/
+.classpath
+.project
